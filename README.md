@@ -62,4 +62,4 @@ wind_turbine_monitoring/
 
 ## Dashboard
 
-![Wind Turbine Monitoring Dashboard]
+![Wind Turbine Monitoring Dashboard](screenshots/dashboard.png)
