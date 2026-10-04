@@ -56,10 +56,7 @@ wind-turbine-monitoring/
 │   ├── rpm.png
 │   ├── wind_speed.png
 │   └── fault_report.csv
-│
-├── screenshots/
-│   └── dashboard.png
-│
+││
 ├── src/
 │   ├── detector.py
 │   ├── main.py
@@ -72,10 +69,3 @@ wind-turbine-monitoring/
 │
 ├── dashboard.py
 ├── pytest.ini
-
-
-
-
-
-
-
