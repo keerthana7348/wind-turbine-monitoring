@@ -59,3 +59,7 @@ wind_turbine_monitoring/
 ├── dashboard.py
 ├── pytest.ini
 └── README.md
+
+## Dashboard
+
+![Wind Turbine Monitoring Dashboard]
