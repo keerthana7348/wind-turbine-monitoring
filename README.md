@@ -60,7 +60,6 @@ wind_turbine_monitoring/
 ├── pytest.ini
 └── README.md
 
-# **Dashboard**
-<img width="1721" height="641" alt="Screenshot 2026-10-04 160942" src="https://github.com/user-attachments/assets/94495f23-f30a-4fcf-ab7e-2de40a4363f8" />
-
+## Dashboard
+![image alt]()
 
