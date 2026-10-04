@@ -60,6 +60,4 @@ wind_turbine_monitoring/
 ├── pytest.ini
 └── README.md
 
-## Dashboard
 
-![Wind Turbine Monitoring Dashboard](screenshots/dashboard.png)
