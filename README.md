@@ -61,5 +61,5 @@ wind_turbine_monitoring/
 └── README.md
 
 ## Dashboard
-![image alt]()
+![image alt](https://github.com/keerthana7348/wind-turbine-monitoring/blob/99e87adadb34e651e27cc5d87a991d6f5bae109b/screenshots/dashboard.png)
 
