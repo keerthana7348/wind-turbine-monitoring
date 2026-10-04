@@ -34,7 +34,6 @@ The project includes an interactive Streamlit dashboard that displays:
 - Fault information
 
 ### Dashboard Preview
-<img width="1721" height="641" alt="Screenshot 2026-10-04 160942" src="https://github.com/user-attachments/assets/1d1ef633-416f-44d8-a705-10b3399b80cd" />
 <img width="1721" height="641" alt="Screenshot 2026-10-04 160942" src="https://github.com/user-attachments/assets/5281532a-3fa6-4d47-9e54-2c08148e67c0" />
 <img width="1729" height="549" alt="Screenshot 2026-10-04 161002" src="https://github.com/user-attachments/assets/8260847f-96d3-4e61-9171-4efa752cc7b9" />
 <img width="1802" height="533" alt="Screenshot 2026-10-04 161018" src="https://github.com/user-attachments/assets/025cfe49-2180-4aa3-aa77-380973fb2b0e" />
